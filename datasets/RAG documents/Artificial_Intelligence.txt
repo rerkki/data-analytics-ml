@@ -1,0 +1,24 @@
+Artificial Intelligence (AI) is a branch of computer science that enables machines to simulate human intelligence, including learning, reasoning, problem-solving, and decision-making. It uses algorithms and vast amounts of data to identify patterns, understand language, and perform tasks that typically require human cognition, such as image recognition or driving cars. 
+YouTube
+YouTube
+ +4
+Key Aspects of AI
+Definition: AI involves developing computer systems capable of performing complex tasks that once required human intelligence.
+How it Works: AI relies on technologies like machine learning (ML), deep learning, and neural networks, rather than just rigid, programmed instructions. It learns by analyzing data, similar to how a person learns from experience.
+Types of Capabilities:
+Perception: Recognizing speech and images.
+Cognition: Reasoning, problem-solving, and decision-making.
+Generative: Creating new content, such as text, images, and music (e.g., ChatGPT).
+Common Applications: AI powers virtual assistants (Siri, Alexa), recommendation engines (Netflix, Amazon), autonomous vehicles, and customer service chatbots.
+Goal: The ultimate goal is to create systems that can operate autonomously to achieve defined goals, such as automating repetitive tasks or detecting fraudulent transactions. 
+YouTube
+YouTube
+ +5
+Key Subfields
+Machine Learning (ML): Teaching computers to learn from data to improve performance without explicit programming.
+Deep Learning: A subset of machine learning based on artificial neural networks with many layers, often used for complex tasks like facial recognition.
+Natural Language Processing (NLP): Enabling computers to understand, interpret, and generate human language. 
+SAS: Data and AI Solutions
+SAS: Data and AI Solutions
+ +4
+AI is considered a transformative, general-purpose technology, often described as the "new electricity" due to its widespread impact across industries like healthcare, finance, and manufacturing.
